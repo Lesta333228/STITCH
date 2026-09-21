@@ -1,0 +1,9 @@
+# Готовая сборка распространяется через GitHub Releases.
+*.exe
+*.zip
+*.rar
+*.log
+*.tmp
+*.bak
+.DS_Store
+Thumbs.db
